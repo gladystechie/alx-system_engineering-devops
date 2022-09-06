@@ -1,2 +1,2 @@
 #!/bin/bash
-echo *
+echo ls -l * > 0x03-shell_variables_expansions
